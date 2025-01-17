@@ -1,4 +1,9 @@
-### **Python 기본 데이터 타입**
+### Section2. 기본 데이터타입(숫자, 문자, f-string)
+
+<br>
+
+
+## **Python 기본 데이터 타입**
 
 ### **1. 숫자 Numbers**
 
